@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SortingALgos/static/css/main.e649cf1a.css",
+    "main.js": "/SortingALgos/static/js/main.d60f029e.js",
+    "static/js/787.0c3f432a.chunk.js": "/SortingALgos/static/js/787.0c3f432a.chunk.js",
+    "static/media/placeholder.png": "/SortingALgos/static/media/placeholder.64cdcb0ef97818161310.png",
+    "index.html": "/SortingALgos/index.html",
+    "main.e649cf1a.css.map": "/SortingALgos/static/css/main.e649cf1a.css.map",
+    "main.d60f029e.js.map": "/SortingALgos/static/js/main.d60f029e.js.map",
+    "787.0c3f432a.chunk.js.map": "/SortingALgos/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e649cf1a.css",
+    "static/js/main.d60f029e.js"
+  ]
+}
